@@ -1,4 +1,14 @@
+
 # Event Management System - Secured CRUD Application
+
+##  Group Members
+
+| Full Name | Registration Number |
+|-----------|-------------------|
+| [Dosite Iradukunda Cyiza] | [24RP07784] |
+| [Happiness Nyampinga] | [24rp05477] |
+
+
 
 A complete PHP-based event management system with authentication and authorization using sessions and cookies.
 
