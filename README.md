@@ -375,7 +375,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Dosite_cyiza)
+- GitHub: [Dosite_Cyiza](https://github.com/Dosite_cyiza)
 - Email: dositecyiza@gmail.com
 
 ---
@@ -404,4 +404,4 @@ None at the moment. Please report any bugs in the Issues section.
 
 ---
 
-**Last Updated:** November 2024
+**Last Updated:** December 2024
